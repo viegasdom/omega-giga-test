@@ -1,5 +1,5 @@
 resource "lab" "main" {
-  title       = "omega-test 123 local giga"
+  title       = "omega-test 123 local  updated"
   description = "Outline the lab's learning objectives, topics, and prerequisites."
 
   layout = resource.layout.single_panel
